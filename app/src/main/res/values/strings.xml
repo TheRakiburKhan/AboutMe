@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Rakibur Khan</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, I am Rakib,
+    \n\nI love meat.
+    \n\nMeat burger, sandwitch, and specially Kacci (A traditional food made in Bangladesh with meat and rice mixed)
+    \n\nI make pizza yesterday and it was great.\n</string>
+    <string name="nickname_hint">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
